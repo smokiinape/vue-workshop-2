@@ -3,7 +3,7 @@
     <BaseLayout>
       
       <template #header>
-        <h1>Custom Header</h1>
+        <h1>Jedi</h1>
       </template>
 
       
@@ -21,7 +21,7 @@
 
       
       <template #footer>
-        <p>Custom Footer</p>
+        <p>May the force be with you</p>
       </template>
     </BaseLayout>
   </div>
